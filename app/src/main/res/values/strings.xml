@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="content_tentang">a b c d e f g h i j k l n m o p q r s t u v w x y z</string>
+
+    <string name="Documantation_link">Documentation Link</string>
+    <string name="app_android_btn">%s App Android</string>
+</resources>
